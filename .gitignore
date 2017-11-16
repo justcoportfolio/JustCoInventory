@@ -3,4 +3,4 @@ data/
 dist/
 nbproject/
 build.xml
-manifext.mf
+manifest.mf
